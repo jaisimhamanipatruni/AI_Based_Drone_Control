@@ -1,6 +1,6 @@
 # DeepRL Quadcopter Controller
 
-_Teach a Quadcopter How to Fly!_
+_Teach a Quadcopter How to Fly!_ by Jaisimha Manipatruni
 
 In this project, you will design a Deep Reinforcement Learning agent to control several quadcopter flying tasks, including take-off, hover and landing.
 
